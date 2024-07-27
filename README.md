@@ -41,8 +41,11 @@ Previously we built an initial prototype called CodeKarma at EthBerlin04. The in
 
 #### High-Level Goals of Academic Research
 
-The high-level goals of our participation in the academic research grant will be to explore theory associated with ways to drive the most Web3 adoption across:
+The high-level goals of our participation in the academic research grant will be to explore theory associated with ways to drive the most Web3 adoption across the following Focus Topic and associated Categories:
 * Open-source communities
+	* Categories:
+		* Successful community ownership
+		* Collaborative creation on open source environments
 
 ## Application Packet <a id="application-packet"></a>
 
@@ -51,7 +54,11 @@ The high-level goals of our participation in the academic research grant will be
 The detailed goals of our participation in the academic research grant will be to explore theory associated with ways to drive the most Web3 adoption across:
 
 * Open-source communities
-	* In-depth research/analysis of open-source ways that collectives may successfully detect whether entities are misaligned and non-compliant with their manifestos, specifically with open-source requirements, and that have or could be been grouped into decentralized collectives with shared ownership, and open-source ways to manage and reform those entities.
+	* Categories:
+		* Successful community ownership
+		* Collaborative creation on open source environments
+
+It will involve in-depth research/analysis of ways that decentralized collaborative communities with shared ownership that are engaged in collaborative creation and building on open-source environments may successfully detect whether they are misaligned and non-compliant with their manifestos, and to manage and reform themselves to successfully overcome those challenges using Web3 and open-source possibilities.
 
 ### Objectives
 
@@ -63,28 +70,45 @@ The definition and measurement of success for this project shall be:
 * Establishment
 	* Creation of a multisignature research/analysis account on one or more Web3 decentralised software platforms
 	* Creation of a research/analysis account on Web2 social media platforms (e.g. https://grillapp.net/@luke) to migrate the audience to Web3 decentralised software platforms (e.g. Joystream)
-* Design Algorithm Theories from Specifications
-	* Creation of formal problem specifications to be used as a black box
-	* Design of algorithm theories to design algorithms from the formal problem specifications.
-* Research/Analysis, Case Studies, and Optioneering
+* Research, Case Studies, and Optioneering
 	* Journals and scientific studies
 	* Real-world or fake entities
-		* Research/analysis to include the discovery of, and a case study and interviews with at least one (1) real-world entity that is a decentralised collective with shared ownership, whose manifesto specifically has open-source requirements. If such a real-world entity (preferred) cannot be found, or is deemed to have been inadequately misaligned and non-compliant with its manifesto, specifically with open-source requirements, or permission to use any adequate real-world entity for the purpose of this grant is denied, or where access to that real-world entity is deemed cost prohibitive by the team, then the team shall create at least one (1) fake entity and at least one (1) fake manifesto, where that fake entity is adequately misaligned and non-compliant with at least one (1) of those fake manifestos.
-* Feasibility Studies
-	* Feasibility studies with simulations to test for minimum viability
+		* Research/analysis to include the discovery of, and a case study and interviews with at least one (1) real-world entity through optioneering that is a decentralised collective with shared ownership, whose manifesto specifically has open-source requirements.
+			* Note: If such a real-world entity (preferred) cannot be found, or is deemed to have been inadequately misaligned and non-compliant with its manifesto, specifically with open-source requirements, or permission to use any adequate real-world entity for the purpose of this grant is denied, or where access to that real-world entity is deemed cost prohibitive by the team, then the team shall create at least one (1) fake entity and at least one (1) fake manifesto, where that fake entity is adequately misaligned and non-compliant with at least one (1) of those fake manifestos.
+* Plan for Data Analysis
+	* Define Objectives and formulated Research Questions and Hypothesis
+		* Creation of hypothesis and questions as formal problem specifications that clearly defines the topic of focus of the experiment to be used as a black box.
+		* Scrutinize the hypothesis rigorously using critical thinking based on an in-depth understanding of the subject to ensure the validity of experiments rely on a robust and testable hypothesis.
+	* Detailed Plan for Data Analysis
+		* Design Algorithm Theories from Specifications
+			* Design of algorithm theories to design algorithms from the formal problem specifications.
+			* Select appropriate sample size and representativeness, statistical methods that are aligned with the research questions for quantitative analysis of the data, and software tools based on defined goals.
+	* Feasibility Study of the research project with surveys, experiments and simulations to test the hypothesis for minimum viability, and determine whether it will be beneficial in terms of technical, financial, legal, and market aspects.
+* Data Collection
+	* Obtain enough information for scientific analysis whilst being impartial and avoid getting certain results.
+* Data Analysis
+	* Organise Data through cleaning and preprocessing depending on its quality
+	* Validation through peer review to avoid potential bias and to ensure interpretation is within context.
+	* Records kept for reproducibility, transparency, and reliability.
+	* Qualitative Analysis
+		* Data visualization to aid in identifying trends to help a non-technical audience gain into the research.
+	* Quantitative Analysis
+	* Insights identified of value from validating the hypothesis and draw meaningful conclusions and contribute to focus area.
+	* Review and reflect upon Data Analysis iteratively to check for any errors, gaps, or biases.
+	* Validate and challenge results and findings with other sources and feedback to improve it. 
 * Feedback
-	* Feedback forms to assess and adopt constructive comments and feedback for continuous improvement shall have consistent overall positive sentiment from all key stakeholders in Stakeholder Group #1 (at least a monthly) and #2 (one-off)
-	* Receive invitations to participate in further grant procurement, if possible
+	* Feedback forms to assess and adopt constructive comments and feedback for continuous improvement shall have consistent overall positive sentiment from all key stakeholders in Stakeholder Group #1 (at least a monthly) and #2 (one-off).
+	* Receive invitations to participate in further grant procurement, if possible.
 * Adoption
-	* Improvement in the Web3 audience to demonstrate Web3 adoption by verified identities
-	* Credit from adoption of the theoretical research/analysis by other Web3 researchers or open-source Web3 software implementers
+	* Improvement in the Web3 audience to demonstrate Web3 adoption by verified identities.
+	* Credit from adoption of the theoretical research/analysis by other Web3 researchers or open-source Web3 software implementers.
 * Reporting
-	* Review/publish preliminary theoretical research/analysis progress reports, at least monthly, on the Web2 social media platforms and Web3 decentralized software platforms
-	* Review/publish detailed theoretical research/analysis progress reports, at least a quarterly, that shall also mention the level of:
+	* Review/publish preliminary theoretical research/analysis progress reports, at least monthly, on the Web2 social media platforms and Web3 decentralized software platforms.
+	* Review/publish detailed theoretical research/analysis progress reports, at least a quarterly, where sources shall be cited and limitations and assumptions shall be acknowledged. It shall also mention the level of:
 		* Adoption
-			* Improvement in the Web3 audience to demonstrate Web3 adoption by verified identities
+			* Improvement in the Web3 audience to demonstrate Web3 adoption by verified identities.
 	* Review/publish work snippets on JUST Open Source Stiftung channels.
-* Publications
+* Publications.
 	* Review/publish at least one paper under peer-review in a major publication by the end of the program, or if that is not possible, produce at least one paper under peer-review in our own new Web3 and open-source publication by the end of the program, and make that a major publication.
 * Marketing
 	* Market the paper to try to have it published in one or more major web magazines, or if that is not possible, market the paper and publishing it in our own new Web3 and open-source magazine.
@@ -106,7 +130,7 @@ The definition and measurement of success for this project shall be:
 
 ##### Example Potential Future Impact through Web3 Adoption by Web3 open-source academic researchers
 
-Whilst not the focus of this academic research grant, our academic research findings could drive future academic research/analysis to explore theory associated with ways to drive the most Web3 adoption across other focus areas such as:
+Whilst not the focus of this academic research grant, our academic research findings could drive future academic research/analysis to explore theory associated with ways to drive the most Web3 adoption across other focus areas and associated categories, such as:
 
 * Economic theory
 	* Investigate the incentivization impact of different token systems and financial structures that are owned and managed by on-chain collectives to steer entities toward alignment and compliance with their manifestos
@@ -133,8 +157,8 @@ Whilst not the focus of the academic research grant, our academic research/analy
 * Governance
 	* Integrate with separate tool that checks whether the behaviour of identities in OpenGov aligns and complies with values in the manifesto plugin registry
 * Open-source communities
-	* Checks whether code you write yourself complies with values in the manifesto plugin registry
-	* Integrate with separate tool that blacklists specific versions of dependencies due to misalignment and non-compliance discovered through crowdsourcing
+	* Checks whether open-source code written collaborately by decentralized communities complies with values in the manifesto plugin registry towards achieving successful community ownership
+	* Integrate with separate tool that blacklists specific versions of dependencies that have not been collaboratively included and maintained using open-source in whitelisted Web3 environments due to misalignment and non-compliance discovered through crowdsourcing through successful community ownership of those dependencies
 	* Create headless UX compliance tests that specifically check for alignment and compliance with UX values from the manifesto plugin registry
 		* Note: This may be used by the Polkadot UX Guild
 * Identity
@@ -159,12 +183,19 @@ Theoretical research/analysis exploration only.
 
 #### Inclusions
 
-As described in the "Definition and Measurement of Success" section, where the focus of in-depth research/analysis shall include only:
+As described in the "Definition and Measurement of Success" section, where the focus of in-depth research/analysis shall include the following focus topic:
 * Open-source communities
+	* Categories:
+		* Successful community ownership
+		* Collaborative creation on open source environments
+
+#### Licensing
+
+Research outputs shall be open access with a free and permissive license.
 
 #### Exclusions
 
-* In-depth research/analysis into:
+* In-depth research/analysis into other focus topics:
 	* Economic theory
 	* Legal landscape and regulation
 	* Governance
@@ -172,61 +203,84 @@ As described in the "Definition and Measurement of Success" section, where the f
 	* Identity
 * Software build and execution 
 
+#### Constraints
+
+* The team will request review of the Feasibility Study by JUST Open Source Stiftung. This will be a hold-point where the team will stop further work until confirmation is received as to whether they wish the team to proceed further or not.
+
 ### Methodology
 
 Plans to achieve our research/analysis objectives include:
 
-* Sept 2024 - Nov 2024
+* Stage 1
 	* Establishment, as described in the associated sub-section of the "Definition and Measurement of Success" section.
-	* Design Algorithm Theories from Specifications, as described in the associated sub-section of the "Definition and Measurement of Success" section.
-	* Research/Analysis, Case Studies, and Optioneering, as described in the associated sub-section of the "Definition and Measurement of Success" section.
+	* Research, Case Studies, and Optioneering, as described in the associated sub-section of the "Definition and Measurement of Success" section.
 	* Reporting, as described in the associated sub-section of the "Definition and Measurement of Success" section.
 	* Feedback from Stakeholder Group #1, as described in the associated sub-section of the "Definition and Measurement of Success" section.
-* Dec 2024 - Feb 2025
-	* Research/Analysis, Case Studies, and Optioneering, as described in the associated sub-section of the "Definition and Measurement of Success" section.
+* Stage 2
+	* Plan for Data Analysis, as described in the associated sub-section of the "Definition and Measurement of Success" section.
 	* Reporting, as described in the associated sub-section of the "Definition and Measurement of Success" section.
 	* Feedback from Stakeholder Group #1, as described in the associated sub-section of the "Definition and Measurement of Success" section.
-* Mar 2025 - May 2025
-	* Feasibility Studies, as described in the associated sub-section of the "Definition and Measurement of Success" section.
+* Stage 3
+	* Data Collection, as described in the associated sub-section of the "Definition and Measurement of Success" section.
+	* Data Analysis, as described in the associated sub-section of the "Definition and Measurement of Success" section.
 	* Reporting, as described in the associated sub-section of the "Definition and Measurement of Success" section.
 	* Feedback from Stakeholder Group #1, as described in the associated sub-section of the "Definition and Measurement of Success" section.
-* June 2025 - Aug 2025
-	* Reporting, as described in the associated sub-section of the "Definition and Measurement of Success" section.
+* Stage 4
 	* Publications, as described in the associated sub-section of the "Definition and Measurement of Success" section.
+	* Reporting, as described in the associated sub-section of the "Definition and Measurement of Success" section.
+	* Feedback from Stakeholder Group #1, as described in the associated sub-section of the "Definition and Measurement of Success" section.
 	* Marketing, as described in the associated sub-section of the "Definition and Measurement of Success" section.
-	* Feedback from Stakeholder Group #1, as described in the associated sub-section of the "Definition and Measurement of Success" section.
-	* Publications, as described in the associated sub-section of the "Definition and Measurement of Success" section.
 	* Presentations, as described in the associated sub-section of the "Definition and Measurement of Success" section.
 	* Feedback from Stakeholder Group #2, as described in the associated sub-section of the "Definition and Measurement of Success" section.
 
 ### Timeline
 
 Below is a brief explanation of the milestones/roadmap and expected deliverables
-* Sep 2024 - Nov 2024
-* Dec 2024 - Feb 2025
-* Mar 2025 - May 2025
-* June 2025 - Aug 2025
+* Stage 1 - Sept 2024 - Dec 2024
+	* Establishment
+	* Research, Case Studies, and Optioneering
+	* Reporting
+	* Feedback from Stakeholder Group #1
+* Stage 2 - Jan 2024 - Apr 2024
+	* Plan for Data Analysis
+	* Reporting
+	* Feedback from Stakeholder Group #1
+* Stage 3 - May 2025 - June 2025
+	* Data Collection
+	* Data Analysis
+	* Reporting
+	* Feedback from Stakeholder Group #1
+* Stage 4 - July 2025 - Aug 2025
+	* Publications
+	* Reporting
+	* Feedback from Stakeholder Group #1
+	* Marketing
+	* Presentations
+	* Feedback from Stakeholder Group #2
+
+The team will endeavour to try to complete the milestones sooner whereever possible, and shall notify the JUST Open Source Stiftung team as soon as possible in case of unforeseen circumstances arising that may cause delays.
 
 ### Budget
 
 The grant funds will be split between Luke Schoen and Sven Buschbeck.
+
 Additional costs are anticipated to include:
 * Access to research journals and scientific studies for information and data collection
 * Access to research real-world entities
 * Access to online educational courses
 
-Monthly budget breakdown:
+Budget breakdown:
 
-* Sep 2024 - Nov 2024 - €5,000
-* Dec 2024 - Feb 2025 - €5,000
-* Mar 2025 - May 2025 - €5,000
-* June 2025 - Aug 2025 - €5,000
+* Stage 1 - €5,000
+* Stage 2 - €5,000
+* Stage 3 - €5,000
+* Stage 4 - €5,000
 
 Total requested amount: €20,000
 
 Note:
 * Software and hardware costs are already minimised since both Luke Schoen and Sven Buschbeck already each have performant hardware.
-* Open-source software shall be used as a priority to further minimise costs. If doing so will impact the quality of deliverables or risk jeapardising achievement of milestones then the team will notify JUST Open Source Stiftung. 
+* Open-source software shall be used as a priority to further minimise costs. If doing so will impact the quality of deliverables or risk jeapardising achievement of milestones then the team will notify JUST Open Source Stiftung.
 
 ### Additional Funds
 
