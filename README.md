@@ -51,28 +51,58 @@ The high-level goals of our participation in the academic research grant will be
 The detailed goals of our participation in the academic research grant will be to explore theory associated with ways to drive the most Web3 adoption across:
 
 * Open-source communities
-	* Research/analyse open-source ways that collectives may successfully detect whether entities are misaligned and non-compliant with their manifestos, specifically with open-source requirements, and that have or could be been grouped into decentralized collectives with shared ownership, and open-source ways to manage and reform those entities.
+	* In-depth research/analysis of open-source ways that collectives may successfully detect whether entities are misaligned and non-compliant with their manifestos, specifically with open-source requirements, and that have or could be been grouped into decentralized collectives with shared ownership, and open-source ways to manage and reform those entities.
 
 ### Objectives
 
 The initial Objectives of what we are hoping to accomplish with this grant shall be as described in the "Abstract Summary of Academic Research" section.
 
-#### Definition and Measurment of Success
+#### Definition and Measurement of Success
 
 The definition and measurement of success for this project shall be:
-* Feedback forms with consistent overall positive sentiment from all key stakeholders including:
-	* JUST Open Source Stiftung
-	* Open-source community
-	* Web3 ecosystem communities
-	* Major web magazine, or the audience of our own new Web3 and open-source magazine
-	* Major Web3 or open-source conference, or the audience of our own side-event associated with a major Web3 or open-source conference
-* Credit from adoption of the theoretical research/analysis by other Web3 researchers or open-source Web3 software implementers
-* Improvement in the Web3 audience to demonstrate Web3 adoption by verified identities
-* Producing at least one paper under peer-review in a major publication by the end of the program, or if that is not possible, produce at at least one paper under peer-review in our own new Web3 and open-source publication by the end of the program, and make that a major publication.
-* Case study interviews and publication of work snippets on JUST Open Source Stiftung channels.
-* Market the paper to try to have it published in one or more major web magazines, or if that is not possible, market the paper and publishing it in our own new Web3 and open-source magazine.
-* Present the paper at one or more major Web3 or open-source conferences, or if that is not possible, present the paper at our own Web3 and open-source side-event associated with a major Web3 or open-source conference.
-* Receive invitations to participate in further grant procurement, if necessary and possible
+* Establishment
+	* Creation of a multisignature research/analysis account on one or more Web3 decentralised software platforms
+	* Creation of a research/analysis account on Web2 social media platforms (e.g. https://grillapp.net/@luke) to migrate the audience to Web3 decentralised software platforms (e.g. Joystream)
+* Design Algorithm Theories from Specifications
+	* Creation of formal problem specifications to be used as a black box
+	* Design of algorithm theories to design algorithms from the formal problem specifications.
+* Research/Analysis, Case Studies, and Optioneering
+	* Journals and scientific studies
+	* Real-world or fake entities
+		* Research/analysis to include the discovery of, and a case study and interviews with at least one (1) real-world entity that is a decentralised collective with shared ownership, whose manifesto specifically has open-source requirements. If such a real-world entity (preferred) cannot be found, or is deemed to have been inadequately misaligned and non-compliant with its manifesto, specifically with open-source requirements, or permission to use any adequate real-world entity for the purpose of this grant is denied, or where access to that real-world entity is deemed cost prohibitive by the team, then the team shall create at least one (1) fake entity and at least one (1) fake manifesto, where that fake entity is adequately misaligned and non-compliant with at least one (1) of those fake manifestos.
+* Feasibility Studies
+	* Feasibility studies with simulations to test for minimum viability
+* Feedback
+	* Feedback forms to assess and adopt constructive comments and feedback for continuous improvement shall have consistent overall positive sentiment from all key stakeholders in Stakeholder Group #1 (at least a monthly) and #2 (one-off)
+	* Receive invitations to participate in further grant procurement, if possible
+* Adoption
+	* Improvement in the Web3 audience to demonstrate Web3 adoption by verified identities
+	* Credit from adoption of the theoretical research/analysis by other Web3 researchers or open-source Web3 software implementers
+* Reporting
+	* Review/publish preliminary theoretical research/analysis progress reports, at least monthly, on the Web2 social media platforms and Web3 decentralized software platforms
+	* Review/publish detailed theoretical research/analysis progress reports, at least a quarterly, that shall also mention the level of:
+		* Adoption
+			* Improvement in the Web3 audience to demonstrate Web3 adoption by verified identities
+	* Review/publish work snippets on JUST Open Source Stiftung channels.
+* Publications
+	* Review/publish at least one paper under peer-review in a major publication by the end of the program, or if that is not possible, produce at least one paper under peer-review in our own new Web3 and open-source publication by the end of the program, and make that a major publication.
+* Marketing
+	* Market the paper to try to have it published in one or more major web magazines, or if that is not possible, market the paper and publishing it in our own new Web3 and open-source magazine.
+* Presentations
+	* Present the paper at one or more major Web3 or open-source conferences, or if that is not possible, present the paper at our own Web3 and open-source side-event associated with a major Web3 or open-source conference.
+
+##### Stakeholder Groups
+
+###### Stakeholder Group #1
+
+* JUST Open Source Stiftung
+* Open-source community
+* Web3 ecosystem communities
+
+###### Stakeholder Group #2
+
+* Major web magazine, or the audience of our own new Web3 and open-source magazine
+* Major Web3 or open-source conference, or the audience of our own side-event associated with a major Web3 or open-source conference
 
 ##### Example Potential Future Impact through Web3 Adoption by Web3 open-source academic researchers
 
@@ -89,9 +119,8 @@ Whilst not the focus of this academic research grant, our academic research find
 * Market forces, drivers, and trends
 	* Cross-chain analytical market research/analysis into the impact on adoption that may be caused by the behaviour of entities that are misaligned and non-compliant with their manifestos and potential ways to improve and the extent of improvement that could be possible by detecting and rectifying the misalignment and non-compliance
 * Identity
-	* Research/analyse ways to manage the extent of misalignment and non-compliance of entities with their manifestos securely and privately on the blockchain to allow those entities to access and control and improve upon their own data and reputation
+	* Research/analysis of ways to manage the extent of misalignment and non-compliance of entities with their manifestos securely and privately on the blockchain to allow those entities to access and control and improve upon their own data and reputation
 	* Investigate the behaviour and impact in OpenGov and creator economies of entities (e.g. Polkadot Decentralized Voices) that are misaligned and non-compliant with their manifestos and ways to improve
-
 
 ##### Example Potential Future Impact through Web3 Adoption by Web3 open-source software implementers
 
@@ -102,7 +131,7 @@ Whilst not the focus of the academic research grant, our academic research/analy
 	* Create a hash of the aggregated manifesto version and associated source code to be able to prove compliance at a specific timestamp
 	* Integrate misalignment and non-compliance detection using signature images
 * Governance
-	* Integrate with separate tool that checks whether the behaviour of identities in OpenGov aligns and complies with values in the manifestor plugin registry
+	* Integrate with separate tool that checks whether the behaviour of identities in OpenGov aligns and complies with values in the manifesto plugin registry
 * Open-source communities
 	* Checks whether code you write yourself complies with values in the manifesto plugin registry
 	* Integrate with separate tool that blacklists specific versions of dependencies due to misalignment and non-compliance discovered through crowdsourcing
@@ -116,25 +145,13 @@ Whilst not the focus of the academic research grant, our academic research/analy
 
 ### Outcomes
 
-In order for this project to benefit the greater Web3 adoption and achieve outcomes that align and comply with the expectations of the Web3 and open-source communities, it will be necessary to:
-* Create of a multisignature research/analysis account on one or more Web3 decentralised software platforms
-* Creation of a research/analysis account on Web2 social media platforms (e.g. https://grillapp.net/@luke) to migrate the audience to Web3 decentralised software platforms (e.g. Joystream)
-* Review/publish at least monthly theoretical research/analysis progress reports on the Web2 social media platforms and Web3 decentralized software platforms
-* Assess and adopt constructive comments and feedback for continuous improvement
-* Producing at least one paper under peer-review in a major publication by the end of the program, or if that is not possible, produce at at least one paper under peer-review in our own new Web3 and open-source publication by the end of the program, and make that a major publication.
-* Case study interviews and publication of work snippets on JUST Open Source Stiftung channels.
-* Market the paper to try to have it published in one or more major web magazines, or if that is not possible, market the paper and publishing it in our own new Web3 and open-source magazine.
-* Present the paper at one or more major Web3 or open-source conferences, or if that is not possible, present the paper at our own Web3 and open-source side-event associated with a major Web3 or open-source conference.
-* Receive invitations to participate in further grant procurement, if necessary and possible
+In order for this project to benefit the greater Web3 adoption and achieve outcomes that align and comply with the expectations of the Web3 and open-source communities, it will be necessary accomplish with this grant the outcomes as described in the "Definition and Measurement of Success" section.
 
 ### Grant Scope
 
 The initial Grant Scope shall be as described in the "Abstract Summary of Academic Research" section.
 
-Feedback was provided that the original proposal that touched on all the focus areas felt too general and broad, and recommended limiting its scope to only two focus areas maximum. As such, the revised proposal now has less focus areas and a more limited scope and shall go deeper into the analysis/research.
-
-The project research/analysis will touch on the focus area:
-* Open-source communities
+Feedback was provided that the original proposal that touched on all the focus areas felt too general and broad, and recommended limiting its scope to only two focus areas maximum. As such, the revised proposal now has less focus areas and a more limited scope and shall go deeper into the analysis/research, as described in the "Inclusions" section.
 
 #### Assumptions
 
@@ -142,14 +159,8 @@ Theoretical research/analysis exploration only.
 
 #### Inclusions
 
-* In-depth research/analysis into:
-	* Open-source communities
-* Creation of formal problem specifications.
-* Design of algorithm theories to design algorithms from the formal problem specifications.
-* Producing at least one paper under peer-review in a major publication by the end of the program, or if that is not possible, produce at at least one paper under peer-review in our own new Web3 and open-source publication by the end of the program, and make that a major publication.
-* Case study interviews and publication of work snippets on JUST Open Source Stiftung channels.
-* Marketing the paper to try to have it published in one or more major web magazines, or if that is not possible, marketing the paper and publishing it in our own new Web3 and open-source magazine.
-* Presenting the paper at one or more major Web3 or open-source conferences, or if that is not possible, presenting the paper at our own Web3 and open-source side-event associated with a major Web3 or open-source conference.
+As described in the "Definition and Measurement of Success" section, where the focus of in-depth research/analysis shall include only:
+* Open-source communities
 
 #### Exclusions
 
@@ -166,52 +177,27 @@ Theoretical research/analysis exploration only.
 Plans to achieve our research/analysis objectives include:
 
 * Sept 2024 - Nov 2024
-	* Create of a multisignature research/analysis account on one or more Web3 decentralised software platforms
-	* Creation of a research/analysis account on Web2 social media platforms (e.g. X, https://grillapp.net/@luke) to use to migrate the audience to Web3 decentralised software platforms (e.g. Joystream)
-	* Creation of formal problem specifications
-	* Design of algorithm theories to design algorithms from the formal problem specifications.
-	* Research/analyse journals and scientific studies
-	* Research/analyse real-world or fake entities
-		* Research/analyse to include the discovery of, and a case study into at least one (1) real-world entity that is a decentralised collective with shared ownership, whose manifesto specifically has open-source requirements. If such a real-world entity (preferred) cannot be found, or is deemed to have been inadequately misaligned and non-compliant with its manifesto, specifically with open-source requirements, or permission to use any adequate real-world entity for the purpose of this grant is denied, or where access to that real-world entity is deemed cost prohibitive by the team, then the team shall create at least one (1) fake entity and at least one (1) fake manifesto, where that fake entity is adequately misaligned and non-compliant with at leaste one (1) of those fake manifestos.
-	* Optioneering
-	* Review/publish theoretical research/analysis progress reports at least monthly on the Web2 social media platforms and Web3 decentralized software platforms
-	* Review/publish detailed theoretical research/analysis progress reports on at least a quarterly basis that shall also mention the level of:
-		* Improvement in the Web3 audience to demonstrate Web3 adoption by verified identities
-	* Case study interviews and publication of work snippets on JUST Open Source Stiftung channels.
-	* Feedback forms at least a monthly with consistent overall positive sentiment from all key stakeholders including:
-		* JUST Open Source Stiftung
-		* Open-source community
-		* Web3 ecosystem communities
-	* Assess and adopt constructive comments and feedback for continuous improvement
+	* Establishment, as described in the associated sub-section of the "Definition and Measurement of Success" section.
+	* Design Algorithm Theories from Specifications, as described in the associated sub-section of the "Definition and Measurement of Success" section.
+	* Research/Analysis, Case Studies, and Optioneering, as described in the associated sub-section of the "Definition and Measurement of Success" section.
+	* Reporting, as described in the associated sub-section of the "Definition and Measurement of Success" section.
+	* Feedback from Stakeholder Group #1, as described in the associated sub-section of the "Definition and Measurement of Success" section.
 * Dec 2024 - Feb 2025
-	* Research/analyse journals and scientific studies
-	* Research/analyse real-world or fake entities
-	* Optioneering
-	* Review/publish theoretical research/analysis progress reports
-	* Review/publish detailed theoretical research/analysis progress reports
-	* Case study interviews and publication of work snippets on JUST Open Source Stiftung channels.
-	* Feedback forms from all key stakeholders
-	* Assess and adopt constructive comments and feedback for continuous improvement
+	* Research/Analysis, Case Studies, and Optioneering, as described in the associated sub-section of the "Definition and Measurement of Success" section.
+	* Reporting, as described in the associated sub-section of the "Definition and Measurement of Success" section.
+	* Feedback from Stakeholder Group #1, as described in the associated sub-section of the "Definition and Measurement of Success" section.
 * Mar 2025 - May 2025
-	* Feasibility studies with simulations to test for minimum viability
-	* Review/publish theoretical research/analysis progress reports
-	* Review/publish detailed theoretical research/analysis progress reports
-	* Case study interviews and publication of work snippets on JUST Open Source Stiftung channels.
-	* Feedback forms from all key stakeholders
-	* Assess and adopt constructive comments and feedback for continuous improvement
+	* Feasibility Studies, as described in the associated sub-section of the "Definition and Measurement of Success" section.
+	* Reporting, as described in the associated sub-section of the "Definition and Measurement of Success" section.
+	* Feedback from Stakeholder Group #1, as described in the associated sub-section of the "Definition and Measurement of Success" section.
 * June 2025 - Aug 2025
-	* Review/publish theoretical research/analysis progress reports
-	* Review/publish detailed theoretical research/analysis progress reports
-	* Case study interviews and publication of work snippets on JUST Open Source Stiftung channels.
-	* Feedback forms from all key stakeholders
-	* Assess and adopt constructive comments and feedback for continuous improvement
-	* Producing at least one paper under peer-review in a major publication by the end of the program, or if that is not possible, produce at at least one paper under peer-review in our own new Web3 and open-source publication by the end of the program, and make that a major publication.
-	* Market the paper to try to have it published in one or more major web magazines, or if that is not possible, market the paper and publishing it in our own new Web3 and open-source magazine.
-	* Present the paper at one or more major Web3 or open-source conferences, or if that is not possible, present the paper at our own Web3 and open-source side-event associated with a major Web3 or open-source conference.
-	* Feedback forms with positive sentiment from:
-		* Major web magazine, or the audience of our own new Web3 and open-source magazine
-		* Major Web3 or open-source conference, or the audience of our own side-event associated with a major Web3 or open-source conference
-	* Receive invitations to participate in further grant procurement, if necessary and possible
+	* Reporting, as described in the associated sub-section of the "Definition and Measurement of Success" section.
+	* Publications, as described in the associated sub-section of the "Definition and Measurement of Success" section.
+	* Marketing, as described in the associated sub-section of the "Definition and Measurement of Success" section.
+	* Feedback from Stakeholder Group #1, as described in the associated sub-section of the "Definition and Measurement of Success" section.
+	* Publications, as described in the associated sub-section of the "Definition and Measurement of Success" section.
+	* Presentations, as described in the associated sub-section of the "Definition and Measurement of Success" section.
+	* Feedback from Stakeholder Group #2, as described in the associated sub-section of the "Definition and Measurement of Success" section.
 
 ### Timeline
 
@@ -252,7 +238,7 @@ The prototype received recognition as a valid submission at EthBerlin04
 
 ## Previous Research / Research Background <a id="research-background"></a>
 
-Below we have compiled our previous research background as academics even if not directly relevant to the proposed project (samples, github, published materials, awards):
+Below we have compiled our previous research background as academics even if not directly relevant to the proposed project (samples, Github, published materials, awards):
 
 ### Luke Schoen
 
