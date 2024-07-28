@@ -211,29 +211,29 @@ Research outputs shall be open access with a free and permissive license.
 
 ### Methodology
 
-Plans to achieve our research/analysis objectives include:
+Plans to achieve our research/analysis objectives include the following. The details are in as described in the associated sub-section of the "Definition and Measurement of Success" section.
 
 * Stage 1
-	* Establishment, as described in the associated sub-section of the "Definition and Measurement of Success" section.
-	* Research, Case Studies, and Optioneering, as described in the associated sub-section of the "Definition and Measurement of Success" section.
-	* Reporting, as described in the associated sub-section of the "Definition and Measurement of Success" section.
-	* Feedback from Stakeholder Group #1, as described in the associated sub-section of the "Definition and Measurement of Success" section.
+	* Establishment
+	* Research, Case Studies, and Optioneering
+	* Reporting
+	* Feedback from Stakeholder Group #1
 * Stage 2
-	* Plan for Data Analysis, as described in the associated sub-section of the "Definition and Measurement of Success" section.
-	* Reporting, as described in the associated sub-section of the "Definition and Measurement of Success" section.
-	* Feedback from Stakeholder Group #1, as described in the associated sub-section of the "Definition and Measurement of Success" section.
+	* Plan for Data Analysis
+	* Reporting
+	* Feedback from Stakeholder Group #1
 * Stage 3
-	* Data Collection, as described in the associated sub-section of the "Definition and Measurement of Success" section.
-	* Data Analysis, as described in the associated sub-section of the "Definition and Measurement of Success" section.
-	* Reporting, as described in the associated sub-section of the "Definition and Measurement of Success" section.
-	* Feedback from Stakeholder Group #1, as described in the associated sub-section of the "Definition and Measurement of Success" section.
+	* Data Collection
+	* Data Analysis
+	* Reporting
+	* Feedback from Stakeholder Group #1
 * Stage 4
-	* Publications, as described in the associated sub-section of the "Definition and Measurement of Success" section.
-	* Reporting, as described in the associated sub-section of the "Definition and Measurement of Success" section.
-	* Feedback from Stakeholder Group #1, as described in the associated sub-section of the "Definition and Measurement of Success" section.
-	* Marketing, as described in the associated sub-section of the "Definition and Measurement of Success" section.
-	* Presentations, as described in the associated sub-section of the "Definition and Measurement of Success" section.
-	* Feedback from Stakeholder Group #2, as described in the associated sub-section of the "Definition and Measurement of Success" section.
+	* Publications
+	* Reporting
+	* Feedback from Stakeholder Group #1
+	* Marketing
+	* Presentations
+	* Feedback from Stakeholder Group #2
 
 ### Timeline
 
