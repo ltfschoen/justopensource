@@ -51,7 +51,7 @@ The high-level goals of our participation in the academic research grant will be
 
 ## Application Packet <a id="application-packet"></a>
 
-### Abstract Summary of Academic Research (Research Abstract / Summary)
+### Abstract Summary of Academic Research (Research Abstract / Summary) <a id="abstract-summary"></a>
 
 The detailed goals of our participation in the academic research grant will be to explore theory associated with ways to drive the most Web3 adoption across:
 
@@ -64,7 +64,7 @@ It will involve in-depth research/analysis of ways that decentralized collaborat
 
 ### Objectives
 
-The initial Objectives of what we are hoping to accomplish with this grant shall be as described in the "Abstract Summary of Academic Research" section.
+The initial Objectives of what we are hoping to accomplish with this grant shall be as described in the ["Abstract Summary of Academic Research"](#abstract-summary) section.
 
 #### Definition and Measurement of Success <a id="definition-measurement-success"></a>
 
@@ -175,7 +175,7 @@ In order for this project to benefit the greater Web3 adoption and achieve outco
 
 ### Grant Scope
 
-The initial Grant Scope shall be as described in the "Abstract Summary of Academic Research" section.
+The initial Grant Scope shall be as described in the ["Abstract Summary of Academic Research"](#abstract-summary) section.
 
 Feedback was provided that the original proposal that touched on all the focus areas felt too general and broad, and recommended limiting its scope to only two focus areas maximum. As such, the revised proposal now has less focus areas and a more limited scope and shall go deeper into the analysis/research, as described in the ["Inclusions"](#inclusions) section.
 
@@ -211,7 +211,7 @@ Research outputs shall be open access with a free and permissive license.
 
 ### Methodology
 
-Plans to achieve our research/analysis objectives include the following. The details are in as described in the associated sub-section of the "Definition and Measurement of Success" section.
+Plans to achieve our research/analysis objectives include the following. The details are in as described in the associated sub-section of the ["Definition and Measurement of Success"](#definition-measurement-success) section.
 
 * Stage 1
 	* Establishment
@@ -237,7 +237,8 @@ Plans to achieve our research/analysis objectives include the following. The det
 
 ### Timeline
 
-Below is a brief explanation of the milestones/roadmap and expected deliverables
+Below is a brief explanation of the milestones/roadmap and expected deliverables.
+
 * Stage 1 - Sept 2024 - Dec 2024
 	* Establishment
 	* Research, Case Studies, and Optioneering
