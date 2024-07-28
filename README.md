@@ -1,6 +1,8 @@
-### Just Open Source Stiftung Grant Application
+# Just Open Source Stiftung Grant Application
 
 ## The JUST Grant
+
+### Table of Contents:
 
 * [Motivation Letter](#motivation-letter)
 * [Application Packet](#application-packet)
@@ -115,20 +117,20 @@ The definition and measurement of success for this project shall be:
 * Presentations
 	* Present the paper at one or more major Web3 or open-source conferences, or if that is not possible, present the paper at our own Web3 and open-source side-event associated with a major Web3 or open-source conference.
 
-##### Stakeholder Groups
+### Stakeholder Groups
 
-###### Stakeholder Group #1
+#### Stakeholder Group #1
 
 * JUST Open Source Stiftung
 * Open-source community
 * Web3 ecosystem communities
 
-###### Stakeholder Group #2
+#### Stakeholder Group #2
 
 * Major web magazine, or the audience of our own new Web3 and open-source magazine
 * Major Web3 or open-source conference, or the audience of our own side-event associated with a major Web3 or open-source conference
 
-##### Example Potential Future Impact through Web3 Adoption by Web3 open-source academic researchers
+### Example Potential Future Impact through Web3 Adoption by Web3 open-source academic researchers
 
 Whilst not the focus of this academic research grant, our academic research findings could drive future academic research/analysis to explore theory associated with ways to drive the most Web3 adoption across other focus areas and associated categories, such as:
 
@@ -146,7 +148,7 @@ Whilst not the focus of this academic research grant, our academic research find
 	* Research/analysis of ways to manage the extent of misalignment and non-compliance of entities with their manifestos securely and privately on the blockchain to allow those entities to access and control and improve upon their own data and reputation
 	* Investigate the behaviour and impact in OpenGov and creator economies of entities (e.g. Polkadot Decentralized Voices) that are misaligned and non-compliant with their manifestos and ways to improve
 
-##### Example Potential Future Impact through Web3 Adoption by Web3 open-source software implementers
+### Example Potential Future Impact through Web3 Adoption by Web3 open-source software implementers
 
 Whilst not the focus of the academic research grant, our academic research/analysis findings could drive the following future implementations:
 
