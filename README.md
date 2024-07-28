@@ -66,7 +66,7 @@ It will involve in-depth research/analysis of ways that decentralized collaborat
 
 The initial Objectives of what we are hoping to accomplish with this grant shall be as described in the "Abstract Summary of Academic Research" section.
 
-#### Definition and Measurement of Success
+#### Definition and Measurement of Success <a id="definition-measurement-success"></a>
 
 The definition and measurement of success for this project shall be:
 * Establishment
@@ -171,21 +171,21 @@ Whilst not the focus of the academic research grant, our academic research/analy
 
 ### Outcomes
 
-In order for this project to benefit the greater Web3 adoption and achieve outcomes that align and comply with the expectations of the Web3 and open-source communities, it will be necessary accomplish with this grant the outcomes as described in the "Definition and Measurement of Success" section.
+In order for this project to benefit the greater Web3 adoption and achieve outcomes that align and comply with the expectations of the Web3 and open-source communities, it will be necessary accomplish with this grant the outcomes as described in the ["Definition and Measurement of Success"](#definition-measurement-success) section.
 
 ### Grant Scope
 
 The initial Grant Scope shall be as described in the "Abstract Summary of Academic Research" section.
 
-Feedback was provided that the original proposal that touched on all the focus areas felt too general and broad, and recommended limiting its scope to only two focus areas maximum. As such, the revised proposal now has less focus areas and a more limited scope and shall go deeper into the analysis/research, as described in the "Inclusions" section.
+Feedback was provided that the original proposal that touched on all the focus areas felt too general and broad, and recommended limiting its scope to only two focus areas maximum. As such, the revised proposal now has less focus areas and a more limited scope and shall go deeper into the analysis/research, as described in the ["Inclusions"](#inclusions) section.
 
 #### Assumptions
 
 Theoretical research/analysis exploration only.
 
-#### Inclusions
+#### Inclusions <a id="inclusions"></a>
 
-As described in the "Definition and Measurement of Success" section, where the focus of in-depth research/analysis shall include the following focus topic:
+As described in the ["Definition and Measurement of Success"](#definition-measurement-success) section, where the focus of in-depth research/analysis shall include the following focus topic:
 * Open-source communities
 	* Categories:
 		* Successful community ownership
